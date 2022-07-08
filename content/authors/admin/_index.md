@@ -3,7 +3,7 @@ title: Chen Xufeng
 avatar_filename: avatar.jpg
 social:
   - display:
-      header: false
+      header: true
     icon_pack: fab
     icon: f09b
     label: "1"
