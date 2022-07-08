@@ -5,7 +5,7 @@ social:
   - display:
       header: false
     icon_pack: fab
-    icon: github
+    icon: f09b
     label: ""
     link: https://github.com/xfchen0912
 superuser: true
