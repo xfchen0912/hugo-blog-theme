@@ -14,7 +14,7 @@ content:
   filters:
     folders:
       - post
-    tag: 'content'
+    tag: ''
     category: ''
     publication_type: ''
     author: ''
