@@ -8,6 +8,10 @@ social:
     icon: github
     label: ""
     link: https://github.com/xfchen0912
+    
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:test@example.org'
 email: 237478882@qq.com
 superuser: true
 user_groups: []
