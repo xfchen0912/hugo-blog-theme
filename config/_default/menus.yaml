@@ -10,8 +10,8 @@ main:
   - name: Tags
     url: tags/
     weight: 2
-  - name: Categorys
-    url: categorys/
+  - name: Categories
+    url: categories/
     weight: 3
   - name: About
     url: about/
