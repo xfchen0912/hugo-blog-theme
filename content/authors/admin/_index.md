@@ -1,6 +1,5 @@
 ---
 title: Chen Xufeng
-role: 数据科学家
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
