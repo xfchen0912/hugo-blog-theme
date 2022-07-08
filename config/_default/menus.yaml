@@ -10,6 +10,7 @@ main:
   - name: About
     url: about/
     weight: 20
+main:
   - name: Research
     url: /#my-section
     weight: 5
