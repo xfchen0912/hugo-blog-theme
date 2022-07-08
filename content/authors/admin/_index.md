@@ -5,7 +5,7 @@ social:
   - display:
       header: true
     icon_pack: fab
-    icon: f09b
+    icon: github
     label: ""
     link: https://github.com/xfchen0912
 email: 237478882@qq.com
