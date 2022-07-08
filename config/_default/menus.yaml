@@ -10,6 +10,6 @@ main:
   - name: About
     url: about/
     weight: 20
-  - name: My
-    url: /#my-section
-    weight: 10
+  - name: Research
+    url: /#research
+    weight: 5
