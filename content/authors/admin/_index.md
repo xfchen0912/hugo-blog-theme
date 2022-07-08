@@ -11,7 +11,7 @@ social:
     
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:237478882@qq.com'
 email: 237478882@qq.com
 superuser: true
 user_groups: []
