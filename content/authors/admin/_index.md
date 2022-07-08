@@ -1,17 +1,5 @@
 ---
-title: Chen Xufeng
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: about/#contact
-  - icon: github
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-
-
+title: brain
+avatar_filename: 250-2503005_familyguy-cartoon-brian-brian-sticker-family-guy.png
 superuser: true
-status:
-  icon: :signal_strength:
 ---
